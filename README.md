@@ -27,3 +27,11 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 # Measure of Dispersion:
 
 ![Descriptive-Statistics- Measure of Dispersion](https://github.com/user-attachments/assets/6503343e-b902-488d-ab11-55efec6c38ca)
+
+# Measure of Frequency
+
+![Descriptive-Statistics- Measure of Frequency](https://github.com/user-attachments/assets/b1eedc68-01c4-4730-a807-b13812c4cd53)
+![Descriptive-Statistics- Measure of Frequency # 2](https://github.com/user-attachments/assets/ecd63da8-c99b-4e77-a468-ea2844cbf6b1)
+![Descriptive-Statistics- Measure of Frequency # 3](https://github.com/user-attachments/assets/53c585d4-aeb0-4ec0-975f-08c6363bb47f)
+
+
