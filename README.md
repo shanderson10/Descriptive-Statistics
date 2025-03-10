@@ -23,3 +23,7 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 # Measure of central tendency (Mean, Median, Mode):
 
 ![# Measure of central tendency (Mean, Median, Mode)](https://github.com/user-attachments/assets/ac474f46-32d0-41fe-87f5-2e934c50bf0d)
+
+# Measure of Dispersion
+
+![Descriptive-Statistics- Measure of Dispersion](https://github.com/user-attachments/assets/6503343e-b902-488d-ab11-55efec6c38ca)
