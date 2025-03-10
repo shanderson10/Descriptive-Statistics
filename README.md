@@ -40,6 +40,6 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 
 ![Descriptive-Statistics- Skewness and Kurtosis](https://github.com/user-attachments/assets/bdd6c00c-017d-468e-86f5-6012306a1d3f)
 
-# Graph Analysis : Bar Chart
+# Graph Analysis - Bar Chart:
 
 ![Descriptive Statistics-Graph Analysis- Bar Chart](https://github.com/user-attachments/assets/27c8bec5-fa3c-437c-b534-460282253020)
