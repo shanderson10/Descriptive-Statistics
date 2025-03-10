@@ -19,3 +19,7 @@ This dataset provides an overview of the nutritional content of 10 distinct item
 # Statistical Parameters
 
 ![Descriptive-Statistics-Statistical Parameters](https://github.com/user-attachments/assets/b4771e25-e849-4c03-844e-b9a245685978)
+
+# Measure of central tendency (Mean, Median, Mode):
+
+![# Measure of central tendency (Mean, Median, Mode)](https://github.com/user-attachments/assets/ac474f46-32d0-41fe-87f5-2e934c50bf0d)
