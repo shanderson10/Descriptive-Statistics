@@ -45,3 +45,27 @@ t_stat, p_value = stats.ttest_rel(before, after)
 
 print(f"T-statistic: {t_stat}, P-value: {p_value}")
 T-statistic: inf, P-value: 0.0
+
+
+# Performing a Chi-Square Test in Pyton
+from scipy import stats
+import numpy as np
+
+# Observed data
+observed = np.array([[30, 20],
+                     [10, 40]])
+
+# Perform the Chi-Square test
+chi2, p, dof, expected = stats.chi2_contingency(observed)
+
+print(f"Chi-Square Statistic: {chi2}")
+print(f"P-value: {p}")
+print(f"Degrees of Freedom: {dof}")
+print(f"Expected Frequencies: \n{expected}")
+
+Chi-Square Statistic: 15.041666666666668
+P-value: 0.00010516355403363114
+Degrees of Freedom: 1
+Expected Frequencies: 
+[[20. 30.]
+ [20. 30.]]
