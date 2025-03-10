@@ -36,4 +36,7 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 
 ![Descriptive-Statistics- Measure of Frequency # 3](https://github.com/user-attachments/assets/53c585d4-aeb0-4ec0-975f-08c6363bb47f)
 
+# Skewness and Kurtosis
+
+![Descriptive-Statistics- Skewness and Kurtosis](https://github.com/user-attachments/assets/bdd6c00c-017d-468e-86f5-6012306a1d3f)
 
