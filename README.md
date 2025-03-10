@@ -12,5 +12,6 @@ This dataset provides an overview of the nutritional content of 10 distinct item
 
 ![Descriptive-Statistics dataset](https://github.com/user-attachments/assets/8fd878dd-9c2d-4414-8bee-7f47d930f211)
 
-Data Types:
+# Data Types:
+
 ![Descriptive-Statistics floats](https://github.com/user-attachments/assets/3434089c-68e7-46d1-b759-085d2d4de133)
