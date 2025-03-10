@@ -16,7 +16,7 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 
 ![Descriptive-Statistics floats](https://github.com/user-attachments/assets/3434089c-68e7-46d1-b759-085d2d4de133)
 
-# Statistical Parameters
+# Statistical Parameters:
 
 ![Descriptive-Statistics-Statistical Parameters](https://github.com/user-attachments/assets/b4771e25-e849-4c03-844e-b9a245685978)
 
