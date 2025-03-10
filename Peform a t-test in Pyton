@@ -1,2 +1,47 @@
 Descriptive Analysis-peform a t-test in Pyton
 
+# Import all the libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Performing a t-Test in Pyton:
+#SciPy library is used to peform a t-test in Pyton.
+
+import numpy as np
+from scipy import stats
+
+# Sample data
+data = [102, 98, 100, 104, 99, 101, 97, 103]
+# Population mean
+population_mean = 100
+
+# Perform one-simple t-test
+t_stat, p_value = stats.ttest_1samp(data, population_mean)
+
+print(f"T-statistic: {t_stat}, P-value: {p_value}")
+T-statistic: 0.5773502691896258, P-value: 0.5817882345917442
+
+# 2. Two-Sample t-Test (Independent):
+#Comparing the means of two independent groups.
+# Sample data from two independent groups
+group1 = [20, 22, 23, 19, 24, 20]
+group2 = [30, 32, 29, 31, 33, 34]
+
+# Perform two-sample t-test
+t_stat, p_value = stats.ttest_ind(group1, group2)
+
+print(f"T-statistic: {t_stat}, P-value: {p_value}")
+T-statistic: -9.175266773341852, P-value: 3.4780789045783574e-06
+
+# 3. Paired t-Test:
+# Testing the same group before an after an intervention.
+# Sample data before and after treatment
+before = [200, 190, 210, 220, 205]
+after = [195, 185, 205, 215, 200]
+
+# Perform paired t-test
+t_stat, p_value = stats.ttest_rel(before, after)
+
+print(f"T-statistic: {t_stat}, P-value: {p_value}")
+T-statistic: inf, P-value: 0.0
