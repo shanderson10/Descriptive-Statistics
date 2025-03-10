@@ -28,7 +28,7 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 
 ![Descriptive-Statistics- Measure of Dispersion](https://github.com/user-attachments/assets/6503343e-b902-488d-ab11-55efec6c38ca)
 
-# Measure of Frequency
+# Measure of Frequency:
 
 ![Descriptive-Statistics- Measure of Frequency](https://github.com/user-attachments/assets/b1eedc68-01c4-4730-a807-b13812c4cd53)
 
@@ -36,7 +36,10 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 
 ![Descriptive-Statistics- Measure of Frequency # 3](https://github.com/user-attachments/assets/53c585d4-aeb0-4ec0-975f-08c6363bb47f)
 
-# Skewness and Kurtosis
+# Skewness and Kurtosis:
 
 ![Descriptive-Statistics- Skewness and Kurtosis](https://github.com/user-attachments/assets/bdd6c00c-017d-468e-86f5-6012306a1d3f)
 
+# Graph Analysis : Bar Chart
+
+![Descriptive Statistics-Graph Analysis- Bar Chart](https://github.com/user-attachments/assets/27c8bec5-fa3c-437c-b534-460282253020)
