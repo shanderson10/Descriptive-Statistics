@@ -1,2 +1,2 @@
-# Descriptive-Statistics-
+# Descriptive-Statistics
 Descriptive-Statistics-with-python
