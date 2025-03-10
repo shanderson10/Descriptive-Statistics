@@ -52,3 +52,10 @@ This dataset highlights the nutritional content of 10 items, showcasing levels o
 
 ![Descriptive-Statistics-Graph Analysis - Box Plot](https://github.com/user-attachments/assets/8282fe68-4c43-4ac4-a0ba-4cdb3e5a0dca)
 
+![Descriptive-Statistics-Graph Analysis - Box Plot #2](https://github.com/user-attachments/assets/806ee978-10fb-46e4-94c0-f07a42e5883d)
+
+![Descriptive-Statistics-Graph Analysis - Box Plot #3](https://github.com/user-attachments/assets/4d58759b-799c-43e6-8a7d-60e4585629c5)
+
+![Descriptive-Statistics-Graph Analysis - Box Plot #5](https://github.com/user-attachments/assets/cca97a1e-95ab-4595-b62c-9e9527a202b1)
+
+
