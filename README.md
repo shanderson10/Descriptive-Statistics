@@ -1,7 +1,7 @@
 # Descriptive-Statistics for Nutrient using Python/Jupyter Notebook
 
 # Introduction
-This project highlights a valuable dataset that provides an in-depth look into the nutritional content of 10 items, detailing levels of calcium, iron, protein, vitamin A, and vitamin C. Each row corresponds to an individual item, presenting its unique nutrient profile. This dataset forms an excellent basis for exploring nutrient distribution, identifying items with the highest or lowest values, and uncovering meaningful insights for analysis.
+This project explores the nutritional composition of 10 items using descriptive statistics to gain meaningful insights. The dataset highlights key nutrients—calcium, iron, protein, vitamin A, and vitamin C—offering a detailed analysis of their distribution, central tendencies (mean, median, mode), and dispersion. Additionally, visualizations like bar charts, histograms, box plots, and scatter plots are utilized to present the data comprehensively, while measures like frequency, skewness, and kurtosis provide deeper insights into the dataset's patterns and variations. This analysis serves as a foundation for understanding nutrient dynamics effectively.
 The libraries imported were:
 
  ![Descriptive-Statistics libraries imported](https://github.com/user-attachments/assets/22e55123-1cdf-4ba1-bd7d-b5302c5a9b32)
