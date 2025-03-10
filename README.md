@@ -1,2 +1,2 @@
-# Descriptive-Statistics Nutruient
+# Descriptive-Statistics Nutrient
 
