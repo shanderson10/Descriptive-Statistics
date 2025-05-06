@@ -1,4 +1,8 @@
 # Descriptive-Statistics for Nutrient using Python/Jupyter Notebook
+Project 3: Capturing Live Stock Data
+Skills Covered: Statistics (Descriptive and Prescriptive Statistics)
+Assets: Deck.
+
 
 # Introduction
 This project explores the nutritional composition of 10 items using descriptive statistics to gain meaningful insights. The dataset highlights key nutrients—calcium, iron, protein, vitamin A, and vitamin C—offering a detailed analysis of their distribution, central tendencies (mean, median, mode), and dispersion. Additionally, visualizations like bar charts, histograms, box plots, and scatter plots are utilized to present the data comprehensively, while measures like frequency, skewness, and kurtosis provide deeper insights into the dataset's patterns and variations. This analysis serves as a foundation for understanding nutrient dynamics effectively.
