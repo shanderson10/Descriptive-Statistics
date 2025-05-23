@@ -1,5 +1,5 @@
 # Descriptive-Statistics for Nutrient using Python/Jupyter Notebook
-Project 3: Capturing Live Stock Data
+Project-7-Descriptive-Statistics
 Skills Covered: Statistics (Descriptive and Prescriptive Statistics)
 Assets: Deck.
 
